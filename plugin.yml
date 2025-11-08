@@ -1,5 +1,0 @@
-name: RandomDrops
-version: 1.0.0
-main: com.mika.randomdrops.RandomDrops
-api-version: "1.21"
-description: Jeder Block gibt beim Abbauen ein zufälliges Item.
