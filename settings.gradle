@@ -7,3 +7,7 @@ dependencyResolutionManagement {
 			maven { url 'https://jitpack.io' }
 		}
 	}
+
+dependencies {
+	        implementation 'com.github.WMikaaa:RandomDrops:Tag'
+	}
